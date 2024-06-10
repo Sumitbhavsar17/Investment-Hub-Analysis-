@@ -1,4 +1,6 @@
-# Investment-Hub-Analysis- 𝑶𝒃𝒋𝒆𝒄𝒕𝒊𝒗𝒆 - During this project, I had the opportunity to 
+# Investment-Hub-Analysis- 
+
+𝑶𝒃𝒋𝒆𝒄𝒕𝒊𝒗𝒆 - During this project, I had the opportunity to 
 
 "Data Exploration and Summary" :- Compute average age, percentage of individuals with various investments, and common savings objectives. , 
 
